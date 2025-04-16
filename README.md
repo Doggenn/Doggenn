@@ -9,13 +9,13 @@
 
 ### 📌 Proyectos Destacados:
 🔹 [**Game of Thrones - React + Vite**](https://game-of-thrones-roan.vercel.app)  
-Aplicación interactiva sobre Juego de Tronos desarrollada con React y Vite.  
+    Aplicación interactiva sobre Juego de Tronos desarrollada con React y Vite.  
 
 🔹 [**Más proyectos en mi GitHub**](https://github.com/doggenn?tab=repositories)  
 
 ### 📫 Contacto:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrián_Rodríguez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adrian-rodriguez-garcia/)  
-[![Email](https://img.shields.io/badge/Email-19arg09@gmail.com-red?style=flat&logo=gmail)](mailto:19arg09@gmail.com)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrián_Rodríguez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adrian-rodriguez-garcia/)  
+  [![Email](https://img.shields.io/badge/Email-19arg09@gmail.com-red?style=flat&logo=gmail)](mailto:19arg09@gmail.com)  
 
 <!--
 
